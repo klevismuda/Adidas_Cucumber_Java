@@ -1,4 +1,4 @@
-package com.demobase.runners;
+package com.demoblase.runners;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
@@ -6,10 +6,11 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-    features = "src/test/resources/features",
-    glue = "src/test/java/com/demobase/step_definitions",
-    dryRun = true
+        features = "src/test/resources/features",
+        glue = "com/demoblase/step_definitions",
+        dryRun = false
 
 )
 public class CukesRunner {
+
 }

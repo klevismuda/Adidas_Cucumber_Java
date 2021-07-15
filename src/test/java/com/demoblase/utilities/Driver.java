@@ -1,4 +1,4 @@
-package com.demobase.utilities;
+package com.demoblase.utilities;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;

@@ -1,4 +1,4 @@
-package com.demobase.utilities;
+package com.demoblase.utilities;
 
 public class BrowserUtils {
     public static void sleep(int second) {

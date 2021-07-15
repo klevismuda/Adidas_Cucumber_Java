@@ -1,4 +1,4 @@
-package com.demobase.utilities;
+package com.demoblase.utilities;
 
 import java.io.FileInputStream;
 import java.io.IOException;
